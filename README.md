@@ -26,8 +26,8 @@ I designed the entire project from scratch using only CSS and HTML. Users should
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/aqib-alam/order-summary-card](https://github.com/aqib-alam/order-summary-card)
+- Live Site URL: [https://aqib-alam.github.io/order-summary-card/](https://aqib-alam.github.io/order-summary-card/)
 
 
 ### Built with
@@ -46,7 +46,7 @@ I mainly learnt how to use pseudo classes through this project.
     background-color: rgba(118,108,241,255);
 }
 ```
-I had not used pseudo classes in my projects before this.
+I have not used pseudo classes in my projects before this.
 
 ### Author
 
