@@ -6,6 +6,9 @@ body {
     font-size: smaller;
 
 }
+.card{
+    max-height: fit-content;
+}
 
 .container{
     text-align: center;
